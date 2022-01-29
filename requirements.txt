@@ -1,2 +1,9 @@
-Flask
-gunicorn
+npm@7.15.1
+node@16.3.0
+apollo-datasource-rest@3.5.1
+apollo-server@3.6.2
+dotenv@14.3.2
+fs@0.0.1-security
+graphql@16.2.0
+nope.db@0.0.9
+panda-db@0.1.6

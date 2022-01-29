@@ -1,0 +1,29 @@
+{
+  "name": "music", 
+  "version": "1.0.0",
+  "description": "back-end demo app for Apollo's enterprise studio",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index"
+  },
+    "dependencies": {
+    "apollo-datasource-rest": "^3.5.1",
+    "apollo-server": "^3.6.2",
+    "dotenv": "^14.3.2",
+    "fs": "^0.0.1-security",
+    "graphql": "^16.2.0",
+    "nope.db": "^0.0.9",
+    "panda-db": "^0.1.6"
+  },
+   "devDependencies": {
+    "@apollo/rover": "^0.4.1",
+    "dotenv": "^8.6.0",
+    "nodemon": "^14.3.2"
+  },
+  "author": "Vann Orton @VannAtApollo",
+  "license": "MIT",
+  "private": true
+}
+
+

@@ -1,0 +1,890 @@
+{
+  "artists": [
+    {
+      "id_artist": 40601,
+      "artist": "Tercer Cielo",
+      "cover": "https://api.happi.dev/v1/music/cover/40601/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40601",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40601/albums"
+    },
+    {
+      "id_artist": 40732,
+      "artist": "Corry Konings",
+      "cover": "https://api.happi.dev/v1/music/cover/40732/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40732",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40732/albums"
+    },
+    {
+      "id_artist": 61308,
+      "artist": "Jonathan Bauer",
+      "cover": "https://api.happi.dev/v1/music/cover/61308/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61308",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61308/albums"
+    },
+    {
+      "id_artist": 40538,
+      "artist": "Faycel Sghir",
+      "cover": "https://api.happi.dev/v1/music/cover/40538/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40538",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40538/albums"
+    },
+    {
+      "id_artist": 14864,
+      "artist": "Vinnie Paz",
+      "cover": "https://api.happi.dev/v1/music/cover/14864/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/14864",
+      "api_albums": "https://api.happi.dev/v1/music/artists/14864/albums"
+    },
+    {
+      "id_artist": 12775,
+      "artist": "White Noise Therapy",
+      "cover": "https://api.happi.dev/v1/music/cover/12775/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/12775",
+      "api_albums": "https://api.happi.dev/v1/music/artists/12775/albums"
+    },
+    {
+      "id_artist": 889,
+      "artist": "Raffa Torres",
+      "cover": "https://api.happi.dev/v1/music/cover/889/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/889",
+      "api_albums": "https://api.happi.dev/v1/music/artists/889/albums"
+    },
+    {
+      "id_artist": 6573,
+      "artist": "İlyas Yalçıntaş",
+      "cover": "https://api.happi.dev/v1/music/cover/6573/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/6573",
+      "api_albums": "https://api.happi.dev/v1/music/artists/6573/albums"
+    },
+    {
+      "id_artist": 7727,
+      "artist": "L.A Hip Hop",
+      "cover": "https://api.happi.dev/v1/music/cover/7727/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/7727",
+      "api_albums": "https://api.happi.dev/v1/music/artists/7727/albums"
+    },
+    {
+      "id_artist": 766,
+      "artist": "DJ Wady",
+      "cover": "https://api.happi.dev/v1/music/cover/766/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/766",
+      "api_albums": "https://api.happi.dev/v1/music/artists/766/albums"
+    },
+    {
+      "id_artist": 2916,
+      "artist": "Mindless Drug Hoover",
+      "cover": "https://api.happi.dev/v1/music/cover/2916/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/2916",
+      "api_albums": "https://api.happi.dev/v1/music/artists/2916/albums"
+    },
+    {
+      "id_artist": 1030,
+      "artist": "Yiorgos Mitsakis",
+      "cover": "https://api.happi.dev/v1/music/cover/1030/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/1030",
+      "api_albums": "https://api.happi.dev/v1/music/artists/1030/albums"
+    },
+    {
+      "id_artist": 3936,
+      "artist": "Blood Red Shoes",
+      "cover": "https://api.happi.dev/v1/music/cover/3936/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/3936",
+      "api_albums": "https://api.happi.dev/v1/music/artists/3936/albums"
+    },
+    {
+      "id_artist": 2136,
+      "artist": "La Famax",
+      "cover": "https://api.happi.dev/v1/music/cover/2136/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/2136",
+      "api_albums": "https://api.happi.dev/v1/music/artists/2136/albums"
+    },
+    {
+      "id_artist": 4014,
+      "artist": "Death Valley Girls",
+      "cover": "https://api.happi.dev/v1/music/cover/4014/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/4014",
+      "api_albums": "https://api.happi.dev/v1/music/artists/4014/albums"
+    },
+    {
+      "id_artist": 2122,
+      "artist": "Cr3on",
+      "cover": "https://api.happi.dev/v1/music/cover/2122/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/2122",
+      "api_albums": "https://api.happi.dev/v1/music/artists/2122/albums"
+    },
+    {
+      "id_artist": 2098,
+      "artist": "Fame on Fire",
+      "cover": "https://api.happi.dev/v1/music/cover/2098/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/2098",
+      "api_albums": "https://api.happi.dev/v1/music/artists/2098/albums"
+    },
+    {
+      "id_artist": 5779,
+      "artist": "Post Malone",
+      "cover": "https://api.happi.dev/v1/music/cover/5779/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/5779",
+      "api_albums": "https://api.happi.dev/v1/music/artists/5779/albums"
+    },
+    {
+      "id_artist": 6131,
+      "artist": "Deborah Blando",
+      "cover": "https://api.happi.dev/v1/music/cover/6131/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/6131",
+      "api_albums": "https://api.happi.dev/v1/music/artists/6131/albums"
+    },
+    {
+      "id_artist": 46553,
+      "artist": "JUSTICE SUNDUZA",
+      "cover": "https://api.happi.dev/v1/music/cover/46553/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/46553",
+      "api_albums": "https://api.happi.dev/v1/music/artists/46553/albums"
+    },
+    {
+      "id_artist": 46205,
+      "artist": "Demi-Lee Moore",
+      "cover": "https://api.happi.dev/v1/music/cover/46205/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/46205",
+      "api_albums": "https://api.happi.dev/v1/music/artists/46205/albums"
+    },
+    {
+      "id_artist": 50364,
+      "artist": "Mehrzad Marashi",
+      "cover": "https://api.happi.dev/v1/music/cover/50364/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/50364",
+      "api_albums": "https://api.happi.dev/v1/music/artists/50364/albums"
+    },
+    {
+      "id_artist": 48818,
+      "artist": "Edgar Hopp",
+      "cover": "https://api.happi.dev/v1/music/cover/48818/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/48818",
+      "api_albums": "https://api.happi.dev/v1/music/artists/48818/albums"
+    },
+    {
+      "id_artist": 56500,
+      "artist": "Atsushi Suemitsu",
+      "cover": "https://api.happi.dev/v1/music/cover/56500/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/56500",
+      "api_albums": "https://api.happi.dev/v1/music/artists/56500/albums"
+    },
+    {
+      "id_artist": 57327,
+      "artist": "Nani Azevedo",
+      "cover": "https://api.happi.dev/v1/music/cover/57327/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57327",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57327/albums"
+    },
+    {
+      "id_artist": 56461,
+      "artist": "Funk Como Le Gusta",
+      "cover": "https://api.happi.dev/v1/music/cover/56461/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/56461",
+      "api_albums": "https://api.happi.dev/v1/music/artists/56461/albums"
+    },
+    {
+      "id_artist": 56132,
+      "artist": "Mandrake",
+      "cover": "https://api.happi.dev/v1/music/cover/56132/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/56132",
+      "api_albums": "https://api.happi.dev/v1/music/artists/56132/albums"
+    },
+    {
+      "id_artist": 57330,
+      "artist": "Kemilly Santos",
+      "cover": "https://api.happi.dev/v1/music/cover/57330/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57330",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57330/albums"
+    },
+    {
+      "id_artist": 57344,
+      "artist": "Kyle Lee",
+      "cover": "https://api.happi.dev/v1/music/cover/57344/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57344",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57344/albums"
+    },
+    {
+      "id_artist": 57343,
+      "artist": "Katt Williams",
+      "cover": "https://api.happi.dev/v1/music/cover/57343/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57343",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57343/albums"
+    },
+    {
+      "id_artist": 57179,
+      "artist": "The Remains of Us",
+      "cover": "https://api.happi.dev/v1/music/cover/57179/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57179",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57179/albums"
+    },
+    {
+      "id_artist": 57380,
+      "artist": "Paul Potts",
+      "cover": "https://api.happi.dev/v1/music/cover/57380/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57380",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57380/albums"
+    },
+    {
+      "id_artist": 57351,
+      "artist": "Pavel Berman",
+      "cover": "https://api.happi.dev/v1/music/cover/57351/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57351",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57351/albums"
+    },
+    {
+      "id_artist": 61138,
+      "artist": "Zedk",
+      "cover": "https://api.happi.dev/v1/music/cover/61138/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61138",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61138/albums"
+    },
+    {
+      "id_artist": 57828,
+      "artist": "CLIQ",
+      "cover": "https://api.happi.dev/v1/music/cover/57828/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/57828",
+      "api_albums": "https://api.happi.dev/v1/music/artists/57828/albums"
+    },
+    {
+      "id_artist": 61060,
+      "artist": "Leonel Ruiz El Gallo Negro",
+      "cover": "https://api.happi.dev/v1/music/cover/61060/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61060",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61060/albums"
+    },
+    {
+      "id_artist": 61071,
+      "artist": "Susana Baca",
+      "cover": "https://api.happi.dev/v1/music/cover/61071/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61071",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61071/albums"
+    },
+    {
+      "id_artist": 61037,
+      "artist": "Stephen Gadd",
+      "cover": "https://api.happi.dev/v1/music/cover/61037/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61037",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61037/albums"
+    },
+    {
+      "id_artist": 61083,
+      "artist": "Jeff Labarge",
+      "cover": "https://api.happi.dev/v1/music/cover/61083/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61083",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61083/albums"
+    },
+    {
+      "id_artist": 61095,
+      "artist": "Mikebøi",
+      "cover": "https://api.happi.dev/v1/music/cover/61095/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61095",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61095/albums"
+    },
+    {
+      "id_artist": 61103,
+      "artist": "Koala Smoke",
+      "cover": "https://api.happi.dev/v1/music/cover/61103/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61103",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61103/albums"
+    },
+    {
+      "id_artist": 61078,
+      "artist": "Mizt3r",
+      "cover": "https://api.happi.dev/v1/music/cover/61078/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61078",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61078/albums"
+    },
+    {
+      "id_artist": 61073,
+      "artist": "Bala-C",
+      "cover": "https://api.happi.dev/v1/music/cover/61073/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61073",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61073/albums"
+    },
+    {
+      "id_artist": 61072,
+      "artist": "Chico Bala",
+      "cover": "https://api.happi.dev/v1/music/cover/61072/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61072",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61072/albums"
+    },
+    {
+      "id_artist": 61122,
+      "artist": "DJ ZeeZee",
+      "cover": "https://api.happi.dev/v1/music/cover/61122/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61122",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61122/albums"
+    },
+    {
+      "id_artist": 61085,
+      "artist": "Konsta Tuomas Mikkonen",
+      "cover": "https://api.happi.dev/v1/music/cover/61085/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61085",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61085/albums"
+    },
+    {
+      "id_artist": 61110,
+      "artist": "Norma Project",
+      "cover": "https://api.happi.dev/v1/music/cover/61110/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61110",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61110/albums"
+    },
+    {
+      "id_artist": 61132,
+      "artist": "Marius Lenoir",
+      "cover": "https://api.happi.dev/v1/music/cover/61132/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61132",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61132/albums"
+    },
+    {
+      "id_artist": 61163,
+      "artist": "Instrumental Music Players",
+      "cover": "https://api.happi.dev/v1/music/cover/61163/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61163",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61163/albums"
+    },
+    {
+      "id_artist": 61155,
+      "artist": "Danny Green Trio",
+      "cover": "https://api.happi.dev/v1/music/cover/61155/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/61155",
+      "api_albums": "https://api.happi.dev/v1/music/artists/61155/albums"
+    },
+    {
+      "id_artist": 39799,
+      "artist": "Rainman",
+      "cover": "https://api.happi.dev/v1/music/cover/39799/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39799",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39799/albums"
+    },
+    {
+      "id_artist": 39800,
+      "artist": "Lemon Sol",
+      "cover": "https://api.happi.dev/v1/music/cover/39800/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39800",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39800/albums"
+    },
+    {
+      "id_artist": 39804,
+      "artist": "Tomasz Radziwonowicz",
+      "cover": "https://api.happi.dev/v1/music/cover/39804/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39804",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39804/albums"
+    },
+    {
+      "id_artist": 39856,
+      "artist": "Jean-Luc Chevalier",
+      "cover": "https://api.happi.dev/v1/music/cover/39856/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39856",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39856/albums"
+    },
+    {
+      "id_artist": 39871,
+      "artist": "Roots Massacre",
+      "cover": "https://api.happi.dev/v1/music/cover/39871/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39871",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39871/albums"
+    },
+    {
+      "id_artist": 39883,
+      "artist": "Patrick Carney",
+      "cover": "https://api.happi.dev/v1/music/cover/39883/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39883",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39883/albums"
+    },
+    {
+      "id_artist": 39906,
+      "artist": "Michael Sanderling",
+      "cover": "https://api.happi.dev/v1/music/cover/39906/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39906",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39906/albums"
+    },
+    {
+      "id_artist": 39954,
+      "artist": "Walt Disney",
+      "cover": "https://api.happi.dev/v1/music/cover/39954/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/39954",
+      "api_albums": "https://api.happi.dev/v1/music/artists/39954/albums"
+    },
+    {
+      "id_artist": 40008,
+      "artist": "Sweetie Irie",
+      "cover": "https://api.happi.dev/v1/music/cover/40008/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40008",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40008/albums"
+    },
+    {
+      "id_artist": 40012,
+      "artist": "Top Caraïbe",
+      "cover": "https://api.happi.dev/v1/music/cover/40012/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40012",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40012/albums"
+    },
+    {
+      "id_artist": 40054,
+      "artist": "Charles Maurinier",
+      "cover": "https://api.happi.dev/v1/music/cover/40054/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40054",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40054/albums"
+    },
+    {
+      "id_artist": 40072,
+      "artist": "Sam Cardon",
+      "cover": "https://api.happi.dev/v1/music/cover/40072/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40072",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40072/albums"
+    },
+    {
+      "id_artist": 40084,
+      "artist": "Magenta",
+      "cover": "https://api.happi.dev/v1/music/cover/40084/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40084",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40084/albums"
+    },
+    {
+      "id_artist": 40102,
+      "artist": "The Machine",
+      "cover": "https://api.happi.dev/v1/music/cover/40102/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40102",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40102/albums"
+    },
+    {
+      "id_artist": 40137,
+      "artist": "The Australian Opera and Ballet Orchestra",
+      "cover": "https://api.happi.dev/v1/music/cover/40137/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40137",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40137/albums"
+    },
+    {
+      "id_artist": 40179,
+      "artist": "Styleist DMP",
+      "cover": "https://api.happi.dev/v1/music/cover/40179/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40179",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40179/albums"
+    },
+    {
+      "id_artist": 40208,
+      "artist": "The Rainbooms",
+      "cover": "https://api.happi.dev/v1/music/cover/40208/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40208",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40208/albums"
+    },
+    {
+      "id_artist": 40225,
+      "artist": "Underskorr",
+      "cover": "https://api.happi.dev/v1/music/cover/40225/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40225",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40225/albums"
+    },
+    {
+      "id_artist": 40311,
+      "artist": "Orquesta Tanguedia",
+      "cover": "https://api.happi.dev/v1/music/cover/40311/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40311",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40311/albums"
+    },
+    {
+      "id_artist": 40354,
+      "artist": "Gaetan Roy",
+      "cover": "https://api.happi.dev/v1/music/cover/40354/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40354",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40354/albums"
+    },
+    {
+      "id_artist": 40384,
+      "artist": "Robert E. Dolan",
+      "cover": "https://api.happi.dev/v1/music/cover/40384/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40384",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40384/albums"
+    },
+    {
+      "id_artist": 40405,
+      "artist": "Tent",
+      "cover": "https://api.happi.dev/v1/music/cover/40405/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40405",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40405/albums"
+    },
+    {
+      "id_artist": 40433,
+      "artist": "Noisemate",
+      "cover": "https://api.happi.dev/v1/music/cover/40433/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40433",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40433/albums"
+    },
+    {
+      "id_artist": 40435,
+      "artist": "The Glue",
+      "cover": "https://api.happi.dev/v1/music/cover/40435/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40435",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40435/albums"
+    },
+    {
+      "id_artist": 40497,
+      "artist": "Heavy Lids",
+      "cover": "https://api.happi.dev/v1/music/cover/40497/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/40497",
+      "api_albums": "https://api.happi.dev/v1/music/artists/40497/albums"
+    },
+    {
+      "id_artist": 41473,
+      "artist": "Carl Hanaghan",
+      "cover": "https://api.happi.dev/v1/music/cover/41473/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/41473",
+      "api_albums": "https://api.happi.dev/v1/music/artists/41473/albums"
+    },
+    {
+      "id_artist": 17913,
+      "artist": "Melohman",
+      "cover": "https://api.happi.dev/v1/music/cover/17913/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17913",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17913/albums"
+    },
+    {
+      "id_artist": 17803,
+      "artist": "Lovers Lane",
+      "cover": "https://api.happi.dev/v1/music/cover/17803/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17803",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17803/albums"
+    },
+    {
+      "id_artist": 16916,
+      "artist": "Derek Duke",
+      "cover": "https://api.happi.dev/v1/music/cover/16916/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/16916",
+      "api_albums": "https://api.happi.dev/v1/music/artists/16916/albums"
+    },
+    {
+      "id_artist": 16918,
+      "artist": "Lisa Cella",
+      "cover": "https://api.happi.dev/v1/music/cover/16918/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/16918",
+      "api_albums": "https://api.happi.dev/v1/music/artists/16918/albums"
+    },
+    {
+      "id_artist": 16921,
+      "artist": "Daniel Pailthorpe",
+      "cover": "https://api.happi.dev/v1/music/cover/16921/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/16921",
+      "api_albums": "https://api.happi.dev/v1/music/artists/16921/albums"
+    },
+    {
+      "id_artist": 16923,
+      "artist": "Plastic Toy",
+      "cover": "https://api.happi.dev/v1/music/cover/16923/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/16923",
+      "api_albums": "https://api.happi.dev/v1/music/artists/16923/albums"
+    },
+    {
+      "id_artist": 17511,
+      "artist": "Nap Hepburn",
+      "cover": "https://api.happi.dev/v1/music/cover/17511/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17511",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17511/albums"
+    },
+    {
+      "id_artist": 17512,
+      "artist": "The Silvertone Steel Band",
+      "cover": "https://api.happi.dev/v1/music/cover/17512/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17512",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17512/albums"
+    },
+    {
+      "id_artist": 17591,
+      "artist": "Lupa Mabuze",
+      "cover": "https://api.happi.dev/v1/music/cover/17591/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17591",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17591/albums"
+    },
+    {
+      "id_artist": 17642,
+      "artist": "Mahoney",
+      "cover": "https://api.happi.dev/v1/music/cover/17642/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17642",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17642/albums"
+    },
+    {
+      "id_artist": 17667,
+      "artist": "Ralph Larenzo",
+      "cover": "https://api.happi.dev/v1/music/cover/17667/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17667",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17667/albums"
+    },
+    {
+      "id_artist": 17840,
+      "artist": "K'un Experience",
+      "cover": "https://api.happi.dev/v1/music/cover/17840/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17840",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17840/albums"
+    },
+    {
+      "id_artist": 17978,
+      "artist": "Tim Barton",
+      "cover": "https://api.happi.dev/v1/music/cover/17978/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17978",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17978/albums"
+    },
+    {
+      "id_artist": 18195,
+      "artist": "Luisa",
+      "cover": "https://api.happi.dev/v1/music/cover/18195/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/18195",
+      "api_albums": "https://api.happi.dev/v1/music/artists/18195/albums"
+    },
+    {
+      "id_artist": 17920,
+      "artist": "DJ Paul Elstak",
+      "cover": "https://api.happi.dev/v1/music/cover/17920/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17920",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17920/albums"
+    },
+    {
+      "id_artist": 17926,
+      "artist": "Da Tekno Warriors",
+      "cover": "https://api.happi.dev/v1/music/cover/17926/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17926",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17926/albums"
+    },
+    {
+      "id_artist": 17936,
+      "artist": "Venom One",
+      "cover": "https://api.happi.dev/v1/music/cover/17936/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17936",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17936/albums"
+    },
+    {
+      "id_artist": 17948,
+      "artist": "Private Funk",
+      "cover": "https://api.happi.dev/v1/music/cover/17948/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17948",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17948/albums"
+    },
+    {
+      "id_artist": 17964,
+      "artist": "Alison Stephens",
+      "cover": "https://api.happi.dev/v1/music/cover/17964/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17964",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17964/albums"
+    },
+    {
+      "id_artist": 17965,
+      "artist": "Geneviève Laurenceau",
+      "cover": "https://api.happi.dev/v1/music/cover/17965/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17965",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17965/albums"
+    },
+    {
+      "id_artist": 17972,
+      "artist": "Egidius Kwartet",
+      "cover": "https://api.happi.dev/v1/music/cover/17972/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/17972",
+      "api_albums": "https://api.happi.dev/v1/music/artists/17972/albums"
+    },
+    {
+      "id_artist": 18085,
+      "artist": "Les Hurlements d'Léo",
+      "cover": "https://api.happi.dev/v1/music/cover/18085/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/18085",
+      "api_albums": "https://api.happi.dev/v1/music/artists/18085/albums"
+    },
+    {
+      "id_artist": 18146,
+      "artist": "Biwai",
+      "cover": "https://api.happi.dev/v1/music/cover/18146/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/18146",
+      "api_albums": "https://api.happi.dev/v1/music/artists/18146/albums"
+    },
+    {
+      "id_artist": 18742,
+      "artist": "Dance Fever",
+      "cover": "https://api.happi.dev/v1/music/cover/18742/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/18742",
+      "api_albums": "https://api.happi.dev/v1/music/artists/18742/albums"
+    },
+    {
+      "artist": "Rock & Roll",
+      "id_artist": 78486,
+      "cover": "https://api.happi.dev/v1/music/cover/78486/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/78486"
+    },
+    {
+      "artist": "Rocka",
+      "id_artist": 432381,
+      "cover": "https://api.happi.dev/v1/music/cover/432381/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/432381"
+    },
+    {
+      "artist": "Rocks",
+      "id_artist": 231754,
+      "cover": "https://api.happi.dev/v1/music/cover/231754/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/231754"
+    },
+    {
+      "artist": "Rocko",
+      "id_artist": 60391,
+      "cover": "https://api.happi.dev/v1/music/cover/60391/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/60391"
+    },
+    {
+      "artist": "Rocky",
+      "id_artist": 408968,
+      "cover": "https://api.happi.dev/v1/music/cover/408968/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/408968"
+    },
+    {
+      "artist": "Rocka",
+      "id_artist": 120079,
+      "cover": "https://api.happi.dev/v1/music/cover/120079/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/120079"
+    },
+    {
+      "artist": "Rock4",
+      "id_artist": 90217,
+      "cover": "https://api.happi.dev/v1/music/cover/90217/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/90217"
+    },
+    {
+      "artist": "Rocky",
+      "id_artist": 60550,
+      "cover": "https://api.happi.dev/v1/music/cover/60550/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/60550"
+    },
+    {
+      "artist": "Rocky",
+      "id_artist": 213825,
+      "cover": "https://api.happi.dev/v1/music/cover/213825/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/213825"
+    },
+    {
+      "artist": "Gym Rock",
+      "id_artist": 93034,
+      "cover": "https://api.happi.dev/v1/music/cover/93034/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/93034"
+    },
+    {
+      "artist": "Deck Rock",
+      "id_artist": 184531,
+      "cover": "https://api.happi.dev/v1/music/cover/184531/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/184531"
+    },
+    {
+      "artist": "Jack Rock",
+      "id_artist": 125604,
+      "cover": "https://api.happi.dev/v1/music/cover/125604/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/125604"
+    },
+    {
+      "artist": "Rossi Rock",
+      "id_artist": 55752,
+      "cover": "https://api.happi.dev/v1/music/cover/55752/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/55752"
+    },
+    {
+      "artist": "Kid Rock",
+      "id_artist": 27900,
+      "cover": "https://api.happi.dev/v1/music/cover/27900/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/27900"
+    },
+    {
+      "artist": "Rock-Ola",
+      "id_artist": 236512,
+      "cover": "https://api.happi.dev/v1/music/cover/236512/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/236512"
+    },
+    {
+      "artist": "Rock Riot",
+      "id_artist": 43823,
+      "cover": "https://api.happi.dev/v1/music/cover/43823/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/43823"
+    },
+    {
+      "artist": "Jay Rock",
+      "id_artist": 30649,
+      "cover": "https://api.happi.dev/v1/music/cover/30649/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/30649"
+    },
+    {
+      "artist": "ROCK FLOCK",
+      "id_artist": 306682,
+      "cover": "https://api.happi.dev/v1/music/cover/306682/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/306682"
+    },
+    {
+      "artist": "Mad Rock",
+      "id_artist": 71266,
+      "cover": "https://api.happi.dev/v1/music/cover/71266/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/71266"
+    },
+    {
+      "artist": "The Rock",
+      "id_artist": 265479,
+      "cover": "https://api.happi.dev/v1/music/cover/265479/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/265479"
+    },
+    {
+      "artist": "Oil (Rock)",
+      "id_artist": 186789,
+      "cover": "https://api.happi.dev/v1/music/cover/186789/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/186789"
+    },
+    {
+      "artist": "Tar Rock",
+      "id_artist": 286052,
+      "cover": "https://api.happi.dev/v1/music/cover/286052/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/286052"
+    },
+    {
+      "artist": "PnB Rock",
+      "id_artist": 12068,
+      "cover": "https://api.happi.dev/v1/music/cover/12068/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/12068"
+    },
+    {
+      "artist": "ROCK-MEN",
+      "id_artist": 445059,
+      "cover": "https://api.happi.dev/v1/music/cover/445059/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/445059"
+    },
+    {
+      "artist": "Rock Kid",
+      "id_artist": 342172,
+      "cover": "https://api.happi.dev/v1/music/cover/342172/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/342172"
+    },
+    {
+      "artist": "Edi Rock",
+      "id_artist": 10811,
+      "cover": "https://api.happi.dev/v1/music/cover/10811/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/10811"
+    },
+    {
+      "artist": "Que Rock",
+      "id_artist": 53894,
+      "cover": "https://api.happi.dev/v1/music/cover/53894/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/53894"
+    },
+    {
+      "artist": "Rock Shop",
+      "id_artist": 261831,
+      "cover": "https://api.happi.dev/v1/music/cover/261831/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/261831"
+    },
+    {
+      "artist": "Flex Rock",
+      "id_artist": 132811,
+      "cover": "https://api.happi.dev/v1/music/cover/132811/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/132811"
+    },
+    {
+      "artist": "Rock City",
+      "id_artist": 32054,
+      "cover": "https://api.happi.dev/v1/music/cover/32054/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/32054"
+    },
+    {
+      "artist": "ROC",
+      "id_artist": 463223,
+      "cover": "https://api.happi.dev/v1/music/cover/463223/artist",
+      "api_artist": "https://api.happi.dev/v1/music/artists/463223"
+    }
+  ]
+}

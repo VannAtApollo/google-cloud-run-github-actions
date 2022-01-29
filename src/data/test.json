@@ -1,0 +1,7 @@
+{
+    "id_artist": 40054,
+    "artist": "Charles Maurinier",
+    "cover": "https://api.happi.dev/v1/music/cover/40054/artist",
+    "api_artist": "https://api.happi.dev/v1/music/artists/40054",
+    "api_albums": "https://api.happi.dev/v1/music/artists/40054/albums"
+}

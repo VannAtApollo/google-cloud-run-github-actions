@@ -1,18 +1,17 @@
-FROM python:3.9-slim
+FROM node:16-alpine
 
-# Allow statements and log messages to immediately appear in the Knative logs
-ENV PYTHONUNBUFFERED True
+WORKDIR /usr/src/app
+
+COPY package.json .
+
 
 
 # Copy local code to the container image.
-COPY . /src
-WORKDIR /src
+COPY ./src/data .
+COPY ./src/datasources .
+COPY ./src/resolvers .
+COPY ./src/*.js .
 
-# Install Python Requirements
-RUN pip install -r requirements.txt
+RUN npm install
 
-# Run the web service on container startup. Here we use the gunicorn
-# webserver, with one worker process and 8 threads.
-# For environments with multiple CPU cores, increase the number of workers
-# to be equal to the cores available.
-CMD exec gunicorn --bind :$PORT --workers 1 --threads 8 --timeout 0 main:app
+CMD [ "npm", "gateway.js" ]
