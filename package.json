@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index",
-    "dev": "nodemon src/index"
+    "dev": "node src/index"
   },
     "dependencies": {
     "apollo-datasource-rest": "^3.5.1",
@@ -18,8 +18,7 @@
   },
    "devDependencies": {
     "@apollo/rover": "^0.4.1",
-    "dotenv": "^8.6.0",
-    "nodemon": "^14.3.2"
+    "dotenv": "^8.6.0"
   },
   "author": "Vann Orton @VannAtApollo",
   "license": "MIT",
