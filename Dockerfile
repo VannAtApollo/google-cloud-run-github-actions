@@ -7,10 +7,10 @@ COPY package.json .
 
 
 # Copy local code to the container image.
-COPY ./src/data .
-COPY ./src/datasources .
-COPY ./src/resolvers .
-COPY ./src/*.js .
+COPY ./src/data/ .
+COPY ./src/datasources/ .
+COPY ./src/resolvers/ .
+COPY ./src/ . 
 
 RUN npm install
 
